@@ -1,4 +1,4 @@
-# 📷 Photography Portfolio Website
+#  Photography Portfolio Website
 
 ## Web Technology Laboratory Project
 
@@ -6,13 +6,13 @@ This Photography Portfolio Website was developed as part of the **Web Technology
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 The website showcases a beginner-friendly photography portfolio with a clean layout and a light pink theme. It includes a photo gallery, photography projects, photography terms, equipment lists, and contact information while demonstrating proper HTML5 structure and formatting techniques.
 
 ---
 
-## ✨ Features
+##  Features
 
 - HTML5 Semantic Elements
 - Internal CSS Styling
@@ -31,14 +31,14 @@ The website showcases a beginner-friendly photography portfolio with a clean lay
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS (Internal Styling)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Photography-Portfolio/
@@ -53,7 +53,7 @@ Photography-Portfolio/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
@@ -61,7 +61,7 @@ Photography-Portfolio/
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project demonstrates:
 
@@ -78,11 +78,11 @@ This project demonstrates:
 
 ---
 
-## 🌐 Live Link
+##  Live Link
 
 https://photography-portfolio-git-main-athira-aruns-projects.vercel.app/
 
-## 👩‍💻 Author
+##  Author
 
 **Athira Arun**
 
@@ -92,7 +92,7 @@ Karunya Institute of Technology and Sciences
 
 ---
 
-## 📚 Academic Information
+##  Academic Information
 
 **Course:** Web Technology Laboratory
 
@@ -102,6 +102,6 @@ Karunya Institute of Technology and Sciences
 
 ---
 
-## 📄 License
+##  License
 
 This project is created solely for **educational purposes** as part of the **Web Technology Laboratory** course at **Karunya Institute of Technology and Sciences**.
