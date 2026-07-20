@@ -78,13 +78,9 @@ This project demonstrates:
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Link
 
-GitHub Pages:
-
-**https://athiraarun06.github.io/Photography-Portfolio/**
-
----
+https://photography-portfolio-git-main-athira-aruns-projects.vercel.app/
 
 ## 👩‍💻 Author
 
